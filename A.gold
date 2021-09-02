@@ -1,0 +1,1 @@
+(A (SINV (B (C (D d) (D (E (F (G g) (G g)) (F f)) (E e))) (C c)) (B (C (D d) (D d)) (C (D d) (D (E (F (G (H h) (H (I i) (I i))) (G g)) (F f)) (E e))))))

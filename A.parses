@@ -1,0 +1,2 @@
+LL0: -29.0
+(A+SINV (B (C (D^X d) (D (E (F (G^X g) (G^X g)) (F^X f)) (E^X e))) (C^X c)) (B (C (D^X d) (D^X d)) (C (D^X d) (D (E (F (G (H^X h) (H (I^X i) (I^X i))) (G^X g)) (F^X f)) (E^X e)))))
